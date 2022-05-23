@@ -4,3 +4,5 @@ Write-Output $range
 
 #Scanning the network
 nmap -0 $range > first.scan.txt 
+
+#Start building the rest of ths shit out now
